@@ -5,13 +5,12 @@ I’m a passionate developer skilled in **JavaScript**, **Python**, and **C++**.
 
 ---
 
-### 📊 GitHub Stats
+[![Barack's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarackAdida&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BarackAdida&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarackAdida&show_icons=true&count_private=true&theme=tokyonight)
+[![Barack's current streak](https://streak-stats.demolab.com/?user=BarackAdida&count_private=true&theme=blue-green&title_color=00b3ff)](https://git.io/streak-stats)
 
----
-
-### 📬 Contact Me:
-- Email: adidabarackpilly@gmail.com  
-- Discord: [My Channel](https://discord.com/channels/342452785658331137/636567006459592704)  
-- Twitter: [@_adida_barack_](https://twitter.com/_adida_barack_?t=bFk-NhGqYwkSnD8VzPW1JQ&s=08)
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
